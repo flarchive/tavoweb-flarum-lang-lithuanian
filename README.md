@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of tavoweb/flarum-lang-lithuanian.** Not for installation: use [Packagist](https://packagist.org/packages/tavoweb/flarum-lang-lithuanian) or the [upstream repository](https://github.com/tavoweb/flarum-lang-lithuanian).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/tavoweb-flarum-lang-lithuanian/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/tavoweb-flarum-lang-lithuanian/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2022-03-02 | `^1.0` | [Browse](https://github.com/flarchive/tavoweb-flarum-lang-lithuanian/tree/archive/v1.0.0) |
+| `v1.0.1` | 2022-03-02 | `^1.0` | [Browse](https://github.com/flarchive/tavoweb-flarum-lang-lithuanian/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/tavoweb-flarum-lang-lithuanian.json](https://github.com/flarchive/archive-index/blob/main/packages/tavoweb-flarum-lang-lithuanian.json)
 
